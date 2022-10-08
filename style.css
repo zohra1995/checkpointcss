@@ -1,0 +1,64 @@
+main ul li {
+    display: inline;
+    margin: 0 1%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    main ul li a:hover {  
+        background-color :rgb(223, 210, 139) ;
+    padding: 10px;
+    border-radius: 10px;
+}
+* { margin: 10px;}
+div { border: 0ch;
+    margin: 0px;
+    padding: 150px 100px;
+    background-color:aliceblue; 
+    font-size:large; 
+}
+.box {margin: 0px;
+    padding: 150px 200px;
+     background-color:rgb(223, 210, 139); 
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box-1{ background-color:rgb(223, 210, 139) ;
+   padding: 10px;
+   border-radius: 25px;
+   color: black;
+}
+.box-2{ background-color:rgb(223, 210, 139) ;
+    padding: 200px 20px;
+    font-size: 15px;
+ }
+ .box-3{ background-color:white ;
+    padding:15px 50px ;
+     
+ }
+ .box-4{ background-color :grey;
+    padding:100px;border-radius: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .box-5{ padding:80px 10%;
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         border: dotted black;  
+ }
+ .box-6{
+    padding: 20px 30%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: dashed black; 
+}
+.box-7{
+    padding: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:rgb(223, 210, 139) ;
+    border-radius: 25px;
+}
+.box-8{
+    padding: 25px 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:gray;
+}
+ 
+
+h1{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h2{ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
